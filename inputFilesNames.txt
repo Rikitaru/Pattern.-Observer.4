@@ -1,0 +1,4 @@
+data/Brick house.txt
+data/Brick-monolithic house.txt
+data/Cottage.txt
+data/Panel house.txt
